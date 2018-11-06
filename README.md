@@ -10,3 +10,6 @@ The purpose of the project is to develop a model for predicting weather and impr
 ### General milestones:
 - Development of an initial algorithm for the effect of weather in a particular area.
 - Expanding the algorithm into two central continents.
+
+
+### [Project Board link:](https://github.com/MichaLasry/Final-project/projects/1)
