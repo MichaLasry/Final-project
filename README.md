@@ -12,4 +12,10 @@ The purpose of the project is to develop a model for predicting weather and impr
 - Expanding the algorithm into two central continents.
 
 
-### [Project Board link:](https://github.com/MichaLasry/Final-project/projects/1)
+### [Project Board link](https://github.com/MichaLasry/Final-project/projects/1)
+
+### Project Documents:
+- Progect idea.
+- Progect inception.
+- Software Requirements Specification.
+- Software Design Specification.
