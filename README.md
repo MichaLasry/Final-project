@@ -16,7 +16,7 @@ The purpose of the project is to develop a model for predicting weather and impr
 
 ### Project Documents:
 - Progect idea.
-- Progect inception.
+- [Progect inception.](https://github.com/MichaLasry/Final-project/wiki/Inception)
 - [Software Requirements Specification.](https://github.com/MichaLasry/Final-project/wiki/SRS)
 - Software Design Specification.
 
