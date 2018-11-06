@@ -19,3 +19,6 @@ The purpose of the project is to develop a model for predicting weather and impr
 - Progect inception.
 - Software Requirements Specification.
 - Software Design Specification.
+
+
+### [Task Management System](https://github.com/MichaLasry/Final-project/issues)
