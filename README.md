@@ -22,3 +22,5 @@ The purpose of the project is to develop a model for predicting weather and impr
 
 
 ### [Task Management System](https://github.com/MichaLasry/Final-project/issues)
+
+### [Market Survey](https://github.com/MichaLasry/Final-project/wiki/Market-Survey)
