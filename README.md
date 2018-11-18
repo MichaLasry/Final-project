@@ -15,10 +15,10 @@ The purpose of the project is to develop a model for predicting weather and impr
 ### [Project Board link](https://github.com/MichaLasry/Final-project/projects/1)
 
 ### Project Documents:
-- Progect idea.
+- Progect idea.[(presentation)](https://github.com/MichaLasry/Final-project/blob/master/Genisis%20Presentation%20011082018.pptx)
 - [Progect inception.](https://github.com/MichaLasry/Final-project/wiki/Inception)
 - [Software Requirements Specification.](https://github.com/MichaLasry/Final-project/wiki/SRS)
-- Software Design Specification.
+
 
 
 ### [Task Management System](https://github.com/MichaLasry/Final-project/issues)
