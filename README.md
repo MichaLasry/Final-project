@@ -4,7 +4,7 @@ Create a weather forcasting model for LEO satellite.
 The project forms [Genesis](https://innovationisrael.org.il/content/%D7%9E%D7%A4%D7%92%D7%A9-%D7%94%D7%AA%D7%A0%D7%A2%D7%94-%D7%9C%D7%9E%D7%90%D7%92%D7%93-genesis) - global earth, low latency, extreme broadband satellite access; 
 
 
-The purpose of the project is to develop a model for predicting weather and improving communication broadband characteristics for satellite LEO, by deep learning. 
+The purpose of the project is to develop a model for predicting weather and improving communication broadband characteristics for satellite LEO by deep learning. 
 
 
 ### General milestones:
