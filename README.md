@@ -16,10 +16,9 @@ The purpose of the project is to develop a model for predicting weather and impr
 
 ### Project Documents:
 -[Proposal and Planning Report](https://github.com/MichaLasry/Final-project/blob/master/Proposal%20and%20Planning%20Report.pdf)
-
-    - Progect idea.[(presentation)](https://github.com/MichaLasry/Final-project/blob/master/Genisis%20Presentation%20011082018.pptx)
-    - [Progect inception.](https://github.com/MichaLasry/Final-project/wiki/Inception)
-    - [Software Requirements Specification.](https://github.com/MichaLasry/Final-project/wiki/SRS)
+   - Progect idea.[(presentation)](https://github.com/MichaLasry/Final-project/blob/master/Genisis%20Presentation%20011082018.pptx)
+   - [Progect inception.](https://github.com/MichaLasry/Final-project/wiki/Inception)
+   - [Software Requirements Specification.](https://github.com/MichaLasry/Final-project/wiki/SRS)
 
 
 
