@@ -19,9 +19,9 @@ The purpose of the project is to develop a model for predicting weather and impr
    - Project idea.[(presentation)](https://github.com/MichaLasry/Final-project/blob/master/Genisis%20Presentation%20011082018.pptx)
    - [Project inception.](https://github.com/MichaLasry/Final-project/wiki/Inception)
    - [Software Requirements Specification.](https://github.com/MichaLasry/Final-project/wiki/SRS)
+   - [Market Survey](https://github.com/MichaLasry/Final-project/wiki/Market-Survey)
 
 
 
 ### [Task Management System](https://github.com/MichaLasry/Final-project/issues)
 
-### [Market Survey](https://github.com/MichaLasry/Final-project/wiki/Market-Survey)
