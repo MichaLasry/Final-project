@@ -20,7 +20,9 @@ The purpose of the project is to develop a model for predicting weather and impr
    - [Project inception.](https://github.com/MichaLasry/Final-project/wiki/Inception)
    - [Software Requirements Specification.](https://github.com/MichaLasry/Final-project/wiki/SRS)
    - [Market Survey](https://github.com/MichaLasry/Final-project/wiki/Market-Survey)
-
+   
+-[Alpha Report]
+   -[Abstract.]() 
 
 
 ### [Task Management System](https://github.com/MichaLasry/Final-project/issues)
