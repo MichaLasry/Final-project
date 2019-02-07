@@ -22,7 +22,7 @@ The purpose of the project is to develop a model for predicting weather and impr
    - [Market Survey](https://github.com/MichaLasry/Final-project/wiki/Market-Survey)
    
 - [Alpha Report]()
-   - [Abstract.](https://github.com/MichaLasry/Final-project/wiki/Abstract) 
+   - [Design](https://github.com/MichaLasry/Final-project/wiki/%D7%AA%D7%99%D7%9B%D7%95%D7%9F-%D7%9E%D7%A4%D7%95%D7%A8%D7%98) 
 
 
 ### [Task Management System](https://github.com/MichaLasry/Final-project/issues)
