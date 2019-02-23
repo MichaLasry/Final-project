@@ -23,7 +23,7 @@ The purpose of the project is to develop a model for predicting weather and impr
    
 - [Alpha Report](https://github.com/MichaLasry/Final-project/blob/master/alpha_report_.pdf)
    - [Design](https://github.com/MichaLasry/Final-project/wiki/%D7%AA%D7%99%D7%9B%D7%95%D7%9F-%D7%9E%D7%A4%D7%95%D7%A8%D7%98) 
-   - [Presentaion video:]()
+   - [Presentaion video:](https://github.com/MichaLasry/Final-project/blob/master/%D7%A1%D7%A8%D7%98%D7%95%D7%9F%20%D7%94%D7%93%D7%9E%D7%99%D7%94.pptx%20version%202.pptx)
 
 ### [Task Management System](https://github.com/MichaLasry/Final-project/issues)
 
