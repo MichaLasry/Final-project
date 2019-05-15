@@ -7,11 +7,6 @@ The project forms [Genesis](https://innovationisrael.org.il/content/%D7%9E%D7%A4
 The purpose of the project is to develop a model for predicting weather and improving communication broadband characteristics for satellite LEO by deep learning. 
 
 
-### General milestones:
-- Development of an initial algorithm for the effect of weather in a particular area.
-- Expanding the algorithm into two central continents.
-
-
 ### [Project Board link](https://github.com/MichaLasry/Final-project/projects/1)
 
 ### Project Documents:
