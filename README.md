@@ -22,6 +22,8 @@ The purpose of the project is to develop a model for predicting weather and impr
 
 - [Betta Report](https://github.com/MichaLasry/Final-project/blob/master/BetaReport_314994336_315560078.pdf)
    - [Progress of the project](https://github.com/MichaLasry/Final-project/wiki/Progress-of-the-project) 
- 
+   
+- [Final Report](https://github.com/MichaLasry/Final-project/blob/master/FinalReport_314994336_315560078.pdf)
+
 ### [Task Management System](https://github.com/MichaLasry/Final-project/issues)
 
