@@ -24,6 +24,7 @@ The purpose of the project is to develop a model for predicting weather and impr
    - [Progress of the project](https://github.com/MichaLasry/Final-project/wiki/Progress-of-the-project) 
    
 - [Final Report](https://github.com/MichaLasry/Final-project/blob/master/FinalReport_314994336_315560078.pdf)
-
+   - [Presentaion video 2:]( https://embed.vidyard.com/share/yCcrv2GQQrYG1SAzNZErcC?vyetoken=0cb85281-b4b6-4eef-b8a1-24ddaed7318c)
+   
 ### [Task Management System](https://github.com/MichaLasry/Final-project/issues)
 
