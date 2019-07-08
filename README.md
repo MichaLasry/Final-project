@@ -27,6 +27,7 @@ The purpose of the project is to develop a model for predicting weather and impr
    - [Presentaion video 2:](  https://embed.vidyard.com/share/yCcrv2GQQrYG1SAzNZErcC?vyetoken=0cb85281-b4b6-4eef-b8a1-24ddaed7318c)
    - [DUSA Attenuation, Model Implementation:](https://github.com/MichaLasry/Final-project/blob/master/dusa.m)
    - [Snow Attenuation, Model Implementation:](https://github.com/MichaLasry/Final-project/blob/master/snowa.m)
+   - [Presentaion 08.07.2019:](  - [Presentaion video 2:](  https://embed.vidyard.com/share/yCcrv2GQQrYG1SAzNZErcC?vyetoken=0cb85281-b4b6-4eef-b8a1-24ddaed7318c))
    
    
 ### [Task Management System](https://github.com/MichaLasry/Final-project/issues)
